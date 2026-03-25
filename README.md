@@ -29,10 +29,10 @@
 
 
 <a href="https://github.com/RodriguesL1/github-readme-stats">
-  <img height=179 align="center" src="https://github-readme-stats.vercel.app/api?username=RodriguesL1&theme=transparent&show_icons=true&rank_icon=github" />
+  <img height=179 align="left" src="https://github-readme-stats.vercel.app/api?username=RodriguesL1&theme=transparent&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/RodriguesL1/convoychat">
-  <img height=179 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodriguesL1&theme=transparent&layout=compact&langs_count=8&card_width=300" />
+  <img height=179 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodriguesL1&theme=transparent&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 
