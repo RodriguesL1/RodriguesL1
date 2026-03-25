@@ -29,13 +29,18 @@
 
 
 <a href="https://github.com/RodriguesL1/github-readme-stats">
-  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api?username=RodriguesL1&theme=transparent&show_icons=true&rank_icon=github" />
+  <img height=179 align="center" src="https://github-readme-stats.vercel.app/api?username=RodriguesL1&theme=transparent&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/RodriguesL1/convoychat">
-  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodriguesL1&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=179 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodriguesL1&theme=transparent&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodriguesL1/RodriguesL1/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodriguesL1/RodriguesL1/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/RodriguesL1/RodriguesL1/output/snake.svg">
 </picture>
 
+</picture>
