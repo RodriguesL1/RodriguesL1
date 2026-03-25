@@ -5,8 +5,6 @@
 - 🌱 No momento estou estudando Pythone banco de dados.
 - 👯 Estou buscando me desenvolver melhor em dados como um todo.
 
-No momento as estátisticas não estão tão boas, mas vão melhorar.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Jp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Leo-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
@@ -31,10 +29,10 @@ No momento as estátisticas não estão tão boas, mas vão melhorar.
 
 
 <a href="https://github.com/RodriguesL1/github-readme-stats">
-  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api?username=RodriguesL1" />
+  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api?username=RodriguesL1&theme=transparent&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/RodriguesL1/convoychat">
-  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodriguesL1&layout=compact&langs_count=8&card_width=320" />
+  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodriguesL1&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
